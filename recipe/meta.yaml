@@ -39,6 +39,7 @@ test:
 about:
   home: http://ram-n.github.io/weatherData/
   license: GPL
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3'
   summary: Functions that help in fetching weather data from websites. Given a location and a
     date range, these functions help fetch weather data (temperature, pressure etc.)
     for any weather related analysis.
@@ -47,5 +48,3 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - johanneskoester
-    - bgruening
