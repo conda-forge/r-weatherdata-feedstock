@@ -1,11 +1,11 @@
-About r-weatherdata
-===================
+About r-weatherdata-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-weatherdata-feedstock/blob/main/LICENSE.txt)
 
 Home: http://ram-n.github.io/weatherData/
 
 Package license: GPL
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-weatherdata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions that help in fetching weather data from websites. Given a location and a date range, these functions help fetch weather data (temperature, pressure etc.) for any weather related analysis.
 
